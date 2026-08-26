@@ -18,7 +18,7 @@ Applied AI product studio. Custom software, agents, and workshops.
 **[Useful Voice](https://github.com/wasimjalali/useful-voice)** · Swift · macOS
 Type with your voice, anywhere on your Mac.
 
-## Skills
+## Useful Skills
 
 Each skill is its own repo, so you can install one without taking the rest.
 
