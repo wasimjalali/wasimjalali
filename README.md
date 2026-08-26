@@ -4,7 +4,7 @@ AI specialist and developer based in Germany. I love building useful solutions f
 
 Founder of **Karko AI**. Production work ships under **Useful**.
 
-## Useful
+## Useful Products
 
 **[Useful Apply](https://usefulapply.com)** · Job search
 The AI job application agent. Find roles, check the fit, generate the application, track everything.
