@@ -1,6 +1,6 @@
 # Hi, I'm Wasim
 
-AI specialist and developer based in Germany. I build tools to solve problems I run into myself.
+AI specialist and developer based in Germany. I love building useful solutions for the problems I encounter.
 
 Founder of **Karko AI**. Production work ships under **Useful**.
 
@@ -8,6 +8,9 @@ Founder of **Karko AI**. Production work ships under **Useful**.
 
 **[Useful Apply](https://usefulapply.com)** · Job search
 The AI job application agent. Find roles, check the fit, generate the application, track everything.
+
+**[Kursfind](https://github.com/wasimjalali/kursfind_ai)** · Next.js · Supabase
+A two-sided marketplace for finding and applying to courses in Germany.
 
 **[Useful Build](https://usefulbuild.com)** · Studio
 Applied AI product studio. Custom software, agents, and workshops.
@@ -35,9 +38,6 @@ Fork of [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) with extra featu
 
 **[Swipekit](https://github.com/wasimjalali/swipekit)** · Next.js · TypeScript
 AI-powered LinkedIn and Instagram carousel generator. Bring your own brand.
-
-**[Kursfind AI](https://github.com/wasimjalali/kursfind_ai)** · Next.js · Supabase
-Find the right course in Germany, and apply in minutes.
 
 ## Reach me
 
