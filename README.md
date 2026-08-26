@@ -25,6 +25,15 @@ Each skill is its own repo, so you can install one without taking the rest.
 **[Skill Scanner](https://github.com/wasimjalali/skill-scanner)**
 Review an agent skill before you install it.
 
+**[Design Craft](https://github.com/wasimjalali/design-craft)**
+Design law for agent-built UI.
+
+**[Premium UI Pass](https://github.com/wasimjalali/premium-ui-pass)**
+A sequenced polish pass over an existing app.
+
+**[Prompt Optimizer](https://github.com/wasimjalali/prompt-optimizer)**
+Turn a rough prompt into a production prompt.
+
 ## Other projects
 
 **[Ṣafwa](https://github.com/wasimjalali/safwa)** · Chrome · JavaScript
