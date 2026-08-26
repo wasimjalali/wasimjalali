@@ -25,7 +25,7 @@ Each skill is its own repo, so you can install one without taking the rest.
 **[Skill Scanner](https://github.com/wasimjalali/skill-scanner)**
 Review an agent skill before you install it.
 
-## Portfolio
+## Other projects
 
 **[Ṣafwa](https://github.com/wasimjalali/safwa)** · Chrome · JavaScript
 Clean up your live stream's Q&A comments as they come in (Persian only).
@@ -33,8 +33,8 @@ Clean up your live stream's Q&A comments as they come in (Persian only).
 **[Pulse](https://github.com/wasimjalali/pulse)** · Chrome · TypeScript
 See your work hours in your browser, and never forget to clock out.
 
-**[cmux](https://github.com/wasimjalali/cmux)** · macOS
-Fork of [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) with extra features for AI coding sessions.
+**[cmux fork](https://github.com/wasimjalali/cmux-fork)** · macOS
+Fork of [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux), with extra features for AI coding sessions.
 
 **[Swipekit](https://github.com/wasimjalali/swipekit)** · Next.js · TypeScript
 AI-powered LinkedIn and Instagram carousel generator. Bring your own brand.
