@@ -9,14 +9,17 @@ Founder of **Karko AI**. Production work ships under **Useful**.
 **[Useful Apply](https://usefulapply.com)** · Job search
 The AI job application agent. Find roles, check the fit, generate the application, track everything.
 
-**[Kursfind](https://github.com/wasimjalali/kursfind_ai)** · Next.js · Supabase
-A two-sided marketplace for finding and applying to courses in Germany.
+**[Useful Brain](https://github.com/wasimjalali/useful-brain)** · Knowledge
+A company knowledge agent that cites every answer and refuses when the evidence isn't there.
+
+**[Useful Voice](https://github.com/wasimjalali/useful-voice)** · Swift · macOS
+Type with your voice, anywhere on your Mac.
 
 **[Useful Build](https://usefulbuild.com)** · Studio
 Applied AI product studio. Custom software, agents, and workshops.
 
-**[Useful Voice](https://github.com/wasimjalali/useful-voice)** · Swift · macOS
-Type with your voice, anywhere on your Mac.
+**[Kursfind](https://github.com/wasimjalali/kursfind_ai)** · Next.js · Supabase
+A two-sided marketplace for finding and applying to courses in Germany.
 
 ## Useful Skills
 
