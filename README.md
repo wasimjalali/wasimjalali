@@ -2,24 +2,27 @@
 
 AI specialist and developer based in Germany. I love building useful solutions for the problems I encounter.
 
-Founder of **Karko AI**. Production work ships under **Useful**.
+Founder of **Karko AI**. Production work ships under **[Useful Build](https://usefulbuild.com)**.
 
-## Useful Products
+## Current project
 
-**[Useful Apply](https://usefulapply.com)** · Job search
-The AI job application agent. Find roles, check the fit, generate the application, track everything.
+**[Inhouse](https://github.com/Useful-Build/inhouse)** · TypeScript · Cloudflare
+An in-house AI agent for a brand's team: one web app where the team works with an agent on their real work. [inhouse.usefulbuild.com](https://inhouse.usefulbuild.com)
 
-**[Useful Brain](https://github.com/wasimjalali/useful-brain)** · Knowledge
+## Portfolio
+
+**[Useful Apply](https://github.com/wasimjalali/usefulapply)** · Next.js · Cloudflare Workers · Claude
+The AI job application agent. Find roles, check the fit, generate the full application, track everything. Every word traces back to your real CV.
+Also as a Claude Code plugin: **[Useful Apply plugin](https://github.com/wasimjalali/usefulapply-plugin)**.
+
+**[Useful Bot](https://github.com/wasimjalali/useful-bot)** · TypeScript · Swift · macOS and iOS
+Your own AI bot on your computer, on the AI plan you already pay for. Writing, research, your inbox and your files.
+
+**[Useful Brain](https://github.com/wasimjalali/useful-brain)** · TypeScript · Cloudflare
 A company knowledge agent that cites every answer and refuses when the evidence isn't there.
 
 **[Useful Voice](https://github.com/wasimjalali/useful-voice)** · Swift · macOS
-Type with your voice, anywhere on your Mac.
-
-**[Useful Build](https://usefulbuild.com)** · Studio
-Applied AI product studio. Custom software, agents, and workshops.
-
-**[Kursfind](https://github.com/wasimjalali/kursfind_ai)** · Next.js · Supabase
-A two-sided marketplace for finding and applying to courses in Germany.
+Type with your voice, anywhere on your Mac. Local-first dictation.
 
 ## Useful Skills
 
@@ -39,18 +42,10 @@ Turn a rough prompt into a production prompt.
 
 ## Other projects
 
-**[Ṣafwa](https://github.com/wasimjalali/safwa)** · Chrome · JavaScript
-Clean up your live stream's Q&A comments as they come in (Persian only).
-
 **[Pulse](https://github.com/wasimjalali/pulse)** · Chrome · TypeScript
 See your work hours in your browser, and never forget to clock out.
-
-**[cmux fork](https://github.com/wasimjalali/cmux-fork)** · macOS
-Fork of [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux), with extra features for AI coding sessions.
-
-**[Swipekit](https://github.com/wasimjalali/swipekit)** · Next.js · TypeScript
-AI-powered LinkedIn and Instagram carousel generator. Bring your own brand.
 
 ## Reach me
 
 - GitHub: [@wasimjalali](https://github.com/wasimjalali)
+- Studio: [usefulbuild.com](https://usefulbuild.com)
