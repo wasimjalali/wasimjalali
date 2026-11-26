@@ -1,51 +1,31 @@
-# Hi, I'm Wasim
+# Wasim Jalali
 
-AI specialist and developer based in Germany. I love building useful solutions for the problems I encounter.
+I'm an Applied AI Engineer in Kaiserslautern, Germany. I build AI agents and tools.
 
-Founder of **Karko AI**. Production work ships under **[Useful Build](https://usefulbuild.com)**.
+I built 10+ internal AI tools at Nature Heart (an estimated 100+ hours saved over 4.5 months) and publish my test numbers at [wasimjalali.com/writings](https://wasimjalali.com/writings/).
 
-## Current project
+## Try it
 
-**[Inhouse](https://github.com/Useful-Build/inhouse)** · TypeScript · Cloudflare
-An in-house AI agent for a brand's team: one web app where the team works with an agent on their real work. [inhouse.usefulbuild.com](https://inhouse.usefulbuild.com)
+- [Inhouse interactive demo](https://demo.usefulbuild.com)
+- [Useful Brain interactive demo](https://brain.usefulbuild.com)
 
-## Portfolio
+## Building now
 
-**[Useful Apply](https://github.com/wasimjalali/usefulapply)** · Next.js · Cloudflare Workers · Claude
-The AI job application agent. Find roles, check the fit, generate the full application, track everything. Every word traces back to your real CV.
-Also as a Claude Code plugin: **[Useful Apply plugin](https://github.com/wasimjalali/usefulapply-plugin)**.
+- **[Inhouse](https://github.com/Useful-Build/inhouse)**: Internal AI agent connected to every tool a company uses, run on each company's own infrastructure.
 
-**[Useful Bot](https://github.com/wasimjalali/useful-bot)** · TypeScript · Swift · macOS and iOS
-Your own AI bot on your computer, on the AI plan you already pay for. Writing, research, your inbox and your files.
+## Open source
 
-**[Useful Brain](https://github.com/wasimjalali/useful-brain)** · TypeScript · Cloudflare
-A company knowledge agent that cites every answer and refuses when the evidence isn't there.
+- **[Useful Brain](https://github.com/wasimjalali/useful-brain)**: Answers questions from your company's documents and shows the source.
+- **[Useful Apply](https://github.com/wasimjalali/usefulapply)**: Wrote tailored job applications in under 90 seconds. Shut down.
+- **[Useful Bot](https://github.com/wasimjalali/useful-bot)**: Mac app for AI assistants, each with one job, on your AI plan.
+- **[Useful Voice](https://github.com/wasimjalali/useful-voice)**: Mac and Windows dictation: tap a key, speak and text appears.
 
-**[Useful Voice](https://github.com/wasimjalali/useful-voice)** · Swift · macOS
-Type with your voice, anywhere on your Mac. Local-first dictation.
+## Tools
 
-## Useful Skills
+- **[Skill Scanner](https://github.com/wasimjalali/skill-scanner)**: Reviews an agent skill before you install it.
+- **[Design Craft](https://github.com/wasimjalali/design-craft)**: Design rules for interfaces built by AI agents.
+- **[Premium UI Pass](https://github.com/wasimjalali/premium-ui-pass)**: Visual polish pass for an existing app.
+- **[Prompt Optimizer](https://github.com/wasimjalali/prompt-optimizer)**: Turns a rough prompt into one a model can run.
+- **[Pulse](https://github.com/wasimjalali/pulse)**: Shows your absence.io hours in Chrome and reminds you to clock out.
 
-Each skill is its own repo, so you can install one without taking the rest.
-
-**[Skill Scanner](https://github.com/wasimjalali/skill-scanner)**
-Review an agent skill before you install it.
-
-**[Design Craft](https://github.com/wasimjalali/design-craft)**
-Design law for agent-built UI.
-
-**[Premium UI Pass](https://github.com/wasimjalali/premium-ui-pass)**
-A sequenced polish pass over an existing app.
-
-**[Prompt Optimizer](https://github.com/wasimjalali/prompt-optimizer)**
-Turn a rough prompt into a production prompt.
-
-## Other projects
-
-**[Pulse](https://github.com/wasimjalali/pulse)** · Chrome · TypeScript
-See your work hours in your browser, and never forget to clock out.
-
-## Reach me
-
-- GitHub: [@wasimjalali](https://github.com/wasimjalali)
-- Studio: [usefulbuild.com](https://usefulbuild.com)
+[Website](https://wasimjalali.com) · [Writings](https://wasimjalali.com/writings/) · [LinkedIn](https://www.linkedin.com/in/wasimjalali) · [Useful Build](https://usefulbuild.com)
