@@ -6,11 +6,12 @@ I built 10+ internal AI tools at Nature Heart (an estimated 100+ hours saved ove
 
 ## Try it
 
-[Inhouse interactive demo](https://demo.usefulbuild.com)
+- [Inhouse interactive demo](https://demo.usefulbuild.com)
+- [Useful Brain interactive demo](https://brain.usefulbuild.com)
 
 ## Building now
 
-- **[Inhouse](https://github.com/Useful-Build/inhouse)**: Internal AI agent connected to every tool a company uses. Demo live; backend in progress.
+- **[Inhouse](https://github.com/Useful-Build/inhouse)**: Internal AI agent connected to every tool a company uses, run on each company's own infrastructure.
 
 ## Open source
 
